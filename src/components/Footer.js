@@ -17,7 +17,7 @@ const Footer = () => {
                     <img src={Logo} alt="Harryphoto logo" width={50} />
                     <p className="text-xl font-semibold">Harryphoto</p>
                 </div>
-                <p className="text-gray-400 mt-4 sm:mt-0 sm:max-w-lg">
+                <p className="text-gray-400 mt-4 sm:max-w-lg lg:mr-14">
                     Sign up for a free account today and start exploring our Image Content Library. Whether you're working on a professional project, sprucing up your personal blog, or simply seeking visual inspiration, we've got you covered.
                 </p>
             </div>
